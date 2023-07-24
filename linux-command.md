@@ -1,0 +1,25 @@
+# linux command
+
+> 리눅스 명령어들을 정리해봅시다.
+
+-pwd   
+        - 현재 작업경록를 출력
+        
+-ls     
+
+      - 현재 폴더에 있는 파일, 폴더를 
+    출력
+      - `-a`: 숨김처리된 파일 , 폴더까지 출력
+
+-  `cd` (change directory)
+-  `mkdir` (make directory) 
+
+        -폴더 생성
+
+ `touch`   
+       -파일 생성
+
+ `rm` (remove)      
+ 
+    - 파일 및 폴더 삭제
+    - `-r` (optional) : 폴더 삭제를
