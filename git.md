@@ -16,3 +16,8 @@
  - `git config` 
     - git 설정울 하는 명령어
     - 일반적으로 `--global` 옵션으로 최초 한번 사용     
+
+ - `git remote` 
+    - `git remore add origin <remote url>`
+    - 원격 저장소로 등록시키는
+     
